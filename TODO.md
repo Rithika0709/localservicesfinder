@@ -1,0 +1,11 @@
+- [x] Update README.md: Change title, git clone URL, cd command, GitHub link
+- [x] Update package-lock.json: Change name from "ServiceHub" to "ServeEase"
+- [x] Update front-end/package.json: Change name from "servicehub-frontend" to "serveease-frontend"
+- [x] Update front-end/src/Signup.js: Change welcome text
+- [x] Update front-end/src/ProviderDashboard.js: Change sidebar logo
+- [x] Update front-end/src/MyBookings.js: Change logo
+- [x] Update front-end/src/Home.js: Change testimonials, logo, section title, footer
+- [x] Update front-end/src/CustomerDashboard.js: Change logo
+- [x] Update front-end/README.md: Change title and description
+- [x] Update front-end/public/index.html: Change description, og:title, twitter:title, title
+- [x] Update front-end/public/manifest.json: Change short_name and name to "ServeEase"
